@@ -18,15 +18,12 @@ Embark on a journey of discovery and connection with "Bridging Borders Between I
     ```
 
 2. **MS SQL SERVER Analysis:**
-    - Execute the SQL script located in `SQL/border_analysis.sql` on your MS SQL SERVER.
+    - Execute the SQL script located in `Bridging Border Analysis.sql` on your MS SQL SERVER.
 
-3. **Explore Dataset:**
-    - Dive into the datasets, `india_dataset.csv` and `pakistan_dataset.csv`, to replicate and extend the analysis.
-
-4. **Engage with Questions:**
+3. **Engage with Questions:**
     - Explore the thought-provoking questions in `Questions.md` to deepen your understanding.
 
-5. **Interactive Presentation:**
+4. **Interactive Presentation:**
     - Review the findings through the interactive presentation in `Presentation.pdf`.
 
 ## 🤝 Contributing
