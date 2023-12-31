@@ -1,4 +1,4 @@
-# Bridging Borders Between India and Pakistan 🌐🤝
+# Bridging Borders Between Pakistan and India Project 🌐🤝
 
 
 Embark on a journey of discovery and connection with "Bridging Borders Between India and Pakistan"! 🌐🤝 This repository presents a compelling case study, featuring detailed analysis performed on a dataset using MS SQL SERVER. Explore the dataset files, insightful questions, and an engaging presentation that aims to bridge understanding between two nations.
@@ -14,7 +14,7 @@ Embark on a journey of discovery and connection with "Bridging Borders Between I
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Bridging-Borders-India-Pakistan.git
+    git clone https://github.com/Syed-Abid/Bridging-Borders-Between-Pakistan-and-India-Project-.git
     ```
 
 2. **MS SQL SERVER Analysis:**
