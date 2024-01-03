@@ -1,7 +1,7 @@
 # Bridging Borders Between Pakistan and India Project 🌐🤝
 
 <div align="center">
-  <img src="https://github.com/Syed-Abid/Bridging-Borders-Between-Pakistan-and-India-Project-/blob/main/India%20Pakistan%20Flag.png" alt="India Pakistan Unity"
+  <img src="https://github.com/Syed-Abid/Bridging-Borders-Between-Pakistan-and-India-Project-/blob/main/India%20Pakistan%20Flag.png" alt="India Pakistan Unity">
 </div>
 
 Embark on a journey of discovery and connection with "Bridging Borders Between India and Pakistan"! 🌐🤝 This repository presents a compelling case study, featuring detailed analysis performed on a dataset using MS SQL SERVER. Explore the dataset files, insightful questions, and an engaging presentation that aims to bridge understanding between two nations.
