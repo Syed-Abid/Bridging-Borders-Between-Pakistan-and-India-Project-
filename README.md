@@ -16,6 +16,12 @@ Embark on a journey of discovery and connection with "Bridging Borders Between I
 ## LinkedIn Post
 - [LinkedIn Post](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_india-pakistan-cultural-affinities-bridging-activity-7146038942675488768-7g9R?utm_source=share&utm_medium=member_desktop)
 
+## Tool Used
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
+</div>
+
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:**
