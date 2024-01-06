@@ -22,6 +22,12 @@ Embark on a journey of discovery and connection with "Bridging Borders Between I
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
 </div>
 
+## Presentation
+
+<object data="https://github.com/Syed-Abid/Bridging-Borders-Between-Pakistan-and-India-Project-/blob/main/Final%20Presentation.pdf" type="application/pdf" width="100%" height="600px">
+  <p>You can <a href="https://github.com/Syed-Abid/Bridging-Borders-Between-Pakistan-and-India-Project-/blob/main/Final%20Presentation.pdf">click here to see the PDF file.</a></p>
+</object>
+
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:**
