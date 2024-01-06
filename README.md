@@ -13,6 +13,9 @@ Embark on a journey of discovery and connection with "Bridging Borders Between I
 - **Thought-Provoking Questions:** Engage with a set of intriguing questions designed to spark curiosity and understanding.
 - **Interactive Presentation:** Explore the case study findings through an immersive presentation.
 
+## LinkedIn Post
+- [LinkedIn Post](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_india-pakistan-cultural-affinities-bridging-activity-7146038942675488768-7g9R?utm_source=share&utm_medium=member_desktop)
+
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:**
